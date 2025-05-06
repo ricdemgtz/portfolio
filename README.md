@@ -24,7 +24,7 @@ Full Stack Developer with experience in interactive web applications, APIs, and 
 
 #### CS50 Projects
 
-(Link to CS50 folder/README) - Projects from Harvard's CS50 course, showcasing fundamental computer science concepts and programming skills.
+[CS50 Proyects](CS50-Proyects/) - Projects from Harvard's CS50 course, showcasing fundamental computer science concepts and programming skills.
 
 * **Pset 1: Mario:** (1-sentence description)
 * **Pset 2: Caesar:** (1-sentence description)
@@ -74,7 +74,7 @@ Desarrollador Full Stack con experiencia en aplicaciones web interactivas, APIs 
 
 #### Proyectos CS50
 
-(Enlace a la carpeta/README de CS50) - Proyectos del curso CS50 de Harvard, que muestran los fundamentos de la informática y las habilidades de programación.
+[CS50 Proyects](CS50-Proyects/) - Proyectos del curso CS50 de Harvard, que muestran los fundamentos de la informática y las habilidades de programación.
 
 * **Pset 1: Mario:** (Descripción breve de 1 oración)
 * **Pset 2: Caesar:** (Descripción breve de 1 oración)
