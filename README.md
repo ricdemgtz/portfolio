@@ -1,34 +1,78 @@
 # Portafolio - Ricardo Gutiérrez
 
+[English](#english) | [Español](#español)
+
+---
+
+## English
+
+This repository presents my portfolio as a full-stack developer. Here you will find a variety of projects that demonstrate my ability to design, develop, and implement robust and scalable software solutions.
+
+### About Me
+
+Full Stack Developer with experience in interactive web applications, APIs, and databases. Focused on optimization and scalability, with knowledge in cloud development.
+
+### Skills
+
+* **Programming Languages:** JavaScript, Python, SQL, HTML, CSS
+* **Frameworks/Libraries:** React, Node.js, Django, Flask
+* **Databases:** MySQL, PostgreSQL (modeling and optimization)
+* **Tools:** Git, GitHub, Azure Data Bricks, Data Factory, Docker
+* **API Development:** RESTful APIs (Development, consumption, and deployment)
+
+### Projects
+
+#### CS50 Projects
+
+(Link to CS50 folder/README) - Projects from Harvard's CS50 course, showcasing fundamental computer science concepts and programming skills.
+
+* **Pset 1: Mario:** (1-sentence description)
+* **Pset 2: Caesar:** (1-sentence description)
+    * ...
+
+#### Web Applications
+
+* **Project Name 1:** (Detailed description of the web application, its features, and technologies used. Quantify achievements if possible.)
+* **Project Name 2:** (Detailed description)
+    * ...
+
+#### APIs
+
+* **API Name 1:** (Description of the API, its purpose, and how it's used)
+* **API Name 2:** (Description)
+    * ...
+
+#### Other Projects
+
+* (Any other projects that don't fit into the above categories, such as scripts, tools, etc.)
+
+### Contact
+
+* [LinkedIn](https://linkedin.com/in/ricardo-gutierrez-dcc/)
+* [Email](rgutierrez.a@hotmail.com)
+* [GitHub](https://github.com/ricdemgtz)
+
+---
+
+## Español
+
 Este repositorio presenta mi portafolio como desarrollador full-stack. Aquí encontrarás una variedad de proyectos que demuestran mi capacidad para diseñar, desarrollar e implementar soluciones de software robustas y escalables.
 
-## Tabla de Contenidos
+### Sobre Mí
 
-* [Sobre Mí](#sobre-mí)
-* [Habilidades](#habilidades)
-* [Proyectos](#proyectos)
-    * [Proyectos CS50](#proyectos-cs50)
-    * [Aplicaciones Web](#aplicaciones-web)
-    * [APIs](#apis)
-    * [Otros Proyectos](#otros-proyectos)
-* [Contacto](#contacto)
+Desarrollador Full Stack con experiencia en aplicaciones web interactivas, APIs y bases de datos. Enfocado en la optimización y escalabilidad, con conocimiento en desarrollo en la nube.
 
-## Sobre Mí
-
-(Un párrafo detallado sobre tu experiencia, formación y motivaciones como desarrollador. Puedes mencionar tu enfoque en la optimización, escalabilidad, etc., como se indica en tu CV [cite: 2])
-
-## Habilidades
+### Habilidades
 
 * **Lenguajes de Programación:** JavaScript, Python, SQL, HTML, CSS
-* **Frameworks/Librerías:** React, Node.js, Django, Flask, (Agregar otros)
-* **Bases de Datos:** MySQL, PostgreSQL
-* **Control de Versiones:** Git, GitHub
-* **Tecnologías de Nube:** Azure, Docker, (Agregar otros)
-* **Desarrollo de APIs:** APIs RESTful
+* **Frameworks/Librerías:** React, Node.js, Django, Flask
+* **Bases de Datos:** MySQL, PostgreSQL (modelado y optimización)
+* **Herramientas:** Git, GitHub, Azure Data Bricks, Data Factory, Docker
+* **Desarrollo de APIs:** APIs RESTful (Desarrollo, consumo e implementación)
 
-## Proyectos
+### Proyectos
 
-### Proyectos CS50
+#### Proyectos CS50
 
 (Enlace a la carpeta/README de CS50) - Proyectos del curso CS50 de Harvard, que muestran los fundamentos de la informática y las habilidades de programación.
 
@@ -36,28 +80,24 @@ Este repositorio presenta mi portafolio como desarrollador full-stack. Aquí enc
 * **Pset 2: Caesar:** (Descripción breve de 1 oración)
     * ...
 
-### Aplicaciones Web
+#### Aplicaciones Web
 
 * **Nombre del Proyecto 1:** (Descripción detallada de la aplicación web, sus características y tecnologías utilizadas. Cuantificar los logros si es posible.)
 * **Nombre del Proyecto 2:** (Descripción detallada)
     * ...
 
-### APIs
+#### APIs
 
 * **Nombre de la API 1:** (Descripción de la API, su propósito y cómo se utiliza)
 * **Nombre de la API 2:** (Descripción)
     * ...
 
-### Otros Proyectos
+#### Otros Proyectos
 
 * (Cualquier otro proyecto que no encaje en las categorías anteriores, como scripts, herramientas, etc.)
 
-## Contacto
+### Contacto
 
 * [LinkedIn](https://linkedin.com/in/ricardo-gutierrez-dcc/)
 * [Correo Electrónico](rgutierrez.a@hotmail.com)
-
-
-
-git config --global user.name "ricdemgtz"
-git config --global user.email "richparty00@gmail.com"
+* [GitHub](https://github.com/ricdemgtz)
