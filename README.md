@@ -26,9 +26,11 @@ Full Stack Developer with experience in interactive web applications, APIs, and 
 
 [CS50 Proyects](CS50-Proyects/) - Projects from Harvard's CS50 course, showcasing fundamental computer science concepts and programming skills.
 
-* **Pset 1: Mario:** (1-sentence description)
-* **Pset 2: Caesar:** (1-sentence description)
-    * ...
+* [Pset 1: Mario](CS50-Proyects/Week%201/mario/) - Implementación de un programa que dibuja pirámides de diferentes alturas.
+* [Pset 2: Caesar](CS50-Proyects/Week%202/Ceasar/) - Un programa que encripta mensajes usando el cifrado César.
+* [Pset 3: Plurality](CS50-Proyects/Week%203/plurality/) - Un programa para determinar al ganador de una elección.
+* [Pset 4: Memory](CS50-Proyects/Week4/recover/) - Un programa que recupera imagenes identificando los bytes de un archivo.
+* [Pset 5: Speller](CS50-Proyects/Week5/speller/) - Implementación de un corrector ortográfico.
 
 #### Web Applications
 
@@ -76,9 +78,15 @@ Desarrollador Full Stack con experiencia en aplicaciones web interactivas, APIs 
 
 [CS50 Proyects](CS50-Proyects/) - Proyectos del curso CS50 de Harvard, que muestran los fundamentos de la informática y las habilidades de programación.
 
-* **Pset 1: Mario:** (Descripción breve de 1 oración)
-* **Pset 2: Caesar:** (Descripción breve de 1 oración)
-    * ...
+* [Pset 1: Mario](CS50-Proyects/Week%201/mario/) - Implementación de un programa que dibuja pirámides de diferentes alturas.
+* [Pset 2: Caesar](CS50-Proyects/Week%202/Ceasar/) - Un programa que encripta mensajes usando el cifrado César.
+* [Pset 3: Plurality](CS50-Proyects/Week%203/plurality/) - Un programa para determinar al ganador de una elección.
+* [Pset 4: Memory](CS50-Proyects/Week4/recover/) - Un programa que recupera imagenes identificando los bytes de un archivo.
+* [Pset 5: Speller](CS50-Proyects/Week5/speller/) - Implementación de un corrector ortográfico.
+* [Pset 6: DNA](pset6-dna/README.md) - Un programa para identificar a una persona basándose en su secuencia de ADN.
+* [Pset 7: Movies](pset7-movies/README.md) - Consultas a una base de datos de películas utilizando SQL.
+* [Pset 8: Homepage](pset8-homepage/README.md) - Diseño y desarrollo de una página web personal.
+* [Proyecto Final](final-project/README.md) - (Descripción de tu proyecto final).
 
 #### Aplicaciones Web
 
