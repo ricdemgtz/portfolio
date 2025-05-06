@@ -1,33 +1,63 @@
-# CS50 Portfolio - Ricardo Gutiérrez
+# Portafolio - Ricardo Gutiérrez
 
-Este repositorio contiene los proyectos que completé como parte del curso CS50: Introduction to Computer Science de la Universidad de Harvard (enero 2025 - en progreso).
+Este repositorio presenta mi portafolio como desarrollador full-stack. Aquí encontrarás una variedad de proyectos que demuestran mi capacidad para diseñar, desarrollar e implementar soluciones de software robustas y escalables.
 
-A través de este curso, he adquirido fundamentos sólidos en programación, estructuras de datos, algoritmos y desarrollo web, utilizando lenguajes como C, Python, SQL, HTML, CSS y JavaScript.
+## Tabla de Contenidos
+
+* [Sobre Mí](#sobre-mí)
+* [Habilidades](#habilidades)
+* [Proyectos](#proyectos)
+    * [Proyectos CS50](#proyectos-cs50)
+    * [Aplicaciones Web](#aplicaciones-web)
+    * [APIs](#apis)
+    * [Otros Proyectos](#otros-proyectos)
+* [Contacto](#contacto)
+
+## Sobre Mí
+
+(Un párrafo detallado sobre tu experiencia, formación y motivaciones como desarrollador. Puedes mencionar tu enfoque en la optimización, escalabilidad, etc., como se indica en tu CV [cite: 2])
+
+## Habilidades
+
+* **Lenguajes de Programación:** JavaScript, Python, SQL, HTML, CSS
+* **Frameworks/Librerías:** React, Node.js, Django, Flask, (Agregar otros)
+* **Bases de Datos:** MySQL, PostgreSQL
+* **Control de Versiones:** Git, GitHub
+* **Tecnologías de Nube:** Azure, Docker, (Agregar otros)
+* **Desarrollo de APIs:** APIs RESTful
 
 ## Proyectos
 
-* [Pset 1: Mario](pset1-mario/README.md) - Implementación de un programa que dibuja pirámides de diferentes alturas.
-* [Pset 2: Caesar](pset2-caesar/README.md) - Un programa que encripta mensajes usando el cifrado César.
-* [Pset 3: Plurality](pset3-plurality/README.md) - Un programa para determinar al ganador de una elección.
-* [Pset 4: Memory](pset4-memory/README.md) - (Breve descripción del juego de memoria).
-* [Pset 5: Speller](pset5-speller/README.md) - Implementación de un corrector ortográfico.
-* [Pset 6: DNA](pset6-dna/README.md) - Un programa para identificar a una persona basándose en su secuencia de ADN.
-* [Pset 7: Movies](pset7-movies/README.md) - Consultas a una base de datos de películas utilizando SQL.
-* [Pset 8: Homepage](pset8-homepage/README.md) - Diseño y desarrollo de una página web personal.
-* [Proyecto Final](final-project/README.md) - (Descripción de tu proyecto final).
+### Proyectos CS50
 
-## Tecnologías Utilizadas
+(Enlace a la carpeta/README de CS50) - Proyectos del curso CS50 de Harvard, que muestran los fundamentos de la informática y las habilidades de programación.
 
-* C
-* Python
-* SQL
-* HTML
-* CSS
-* JavaScript
+* **Pset 1: Mario:** (Descripción breve de 1 oración)
+* **Pset 2: Caesar:** (Descripción breve de 1 oración)
+    * ...
 
-## Enlaces
+### Aplicaciones Web
 
-* [Mi CV](URL de tu CV en línea o mención de que está adjunto en la postulación)
-* [Mi Perfil de LinkedIn](https://linkedin.com/in/ricardo-gutierrez-dcc/)
+* **Nombre del Proyecto 1:** (Descripción detallada de la aplicación web, sus características y tecnologías utilizadas. Cuantificar los logros si es posible.)
+* **Nombre del Proyecto 2:** (Descripción detallada)
+    * ...
 
-¡Gracias por revisar mi portafolio!
+### APIs
+
+* **Nombre de la API 1:** (Descripción de la API, su propósito y cómo se utiliza)
+* **Nombre de la API 2:** (Descripción)
+    * ...
+
+### Otros Proyectos
+
+* (Cualquier otro proyecto que no encaje en las categorías anteriores, como scripts, herramientas, etc.)
+
+## Contacto
+
+* [LinkedIn](https://linkedin.com/in/ricardo-gutierrez-dcc/)
+* [Correo Electrónico](rgutierrez.a@hotmail.com)
+
+
+
+git config --global user.name "ricdemgtz"
+git config --global user.email "richparty00@gmail.com"

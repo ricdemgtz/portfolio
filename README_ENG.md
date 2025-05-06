@@ -1,6 +1,6 @@
 # Portfolio - Ricardo Gutiérrez
 
-This repository serves as a comprehensive portfolio of my work as a full-stack developer. Inside, you'll discover a range of projects that demonstrate my ability to design, develop, and deploy robust and scalable software solutions.
+This repository presents my portfolio as a full-stack developer. Here you will find a variety of projects that demonstrate my ability to design, develop, and implement robust and scalable software solutions.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ This repository serves as a comprehensive portfolio of my work as a full-stack d
 
 ## About Me
 
-(A more detailed paragraph about your background, experience, and what drives you as a developer. You can mention your interest in optimization, scalability, etc., as stated in your CV [cite: 2])
+(A detailed paragraph about your background, experience, and what drives you as a developer. You can mention your focus on optimization, scalability, etc., as stated in your CV [cite: 2])
 
 ## Skills
 
@@ -50,7 +50,7 @@ This repository serves as a comprehensive portfolio of my work as a full-stack d
 
 ### Other Projects
 
-* (Any other projects that don't fit into the above categories, like scripts, tools, etc.)
+* (Any other projects that don't fit into the above categories, such as scripts, tools, etc.)
 
 ## Contact
 
