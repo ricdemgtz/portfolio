@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+pyvenv.cfg
+
+# Environment variables
+.env
+
+# Docker artifacts (optional, if you don't need to commit them)
+# .dockerignore (if separate from .gitignore)
+# docker-compose.override.yml (if used for local overrides)
+
+# Other common exclusions for Python projects
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
