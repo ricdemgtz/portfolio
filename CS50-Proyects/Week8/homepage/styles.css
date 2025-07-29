@@ -1,0 +1,36 @@
+/* Custom styles for the website */
+
+/* 1. Body tag selector */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* 2. Custom class selector for the navbar */
+.navbar-custom {
+    background-color: #343a40;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+/* 3. ID selector for the fun fact button */
+#fun-fact-button {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* 4. Footer tag selector */
+footer {
+    background-color: #e9ecef;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+/* 5. Card class selector with a pseudo-class for hover effect */
+.card {
+    transition: transform .2s; /* Animation */
+}
+
+.card:hover {
+    transform: scale(1.05); /* (Slightly enlarges the card) */
+    box-shadow: 0 4px 8px rgba(0,0,0,.2);
+}

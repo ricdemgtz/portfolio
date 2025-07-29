@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #0056b3;
+}
+
+h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    min-height: 50px; /* Give space for questions of different lengths */
+}
+
+button, input {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+}
+
+button:hover:not(:disabled) {
+    background-color: #0056b3;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    background-color: #6c757d;
+}
+
+input {
+    min-width: 200px;
+}
+
+#feedback-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    min-height: 1.5rem; /* Prevents layout shift */
+    margin-top: 1rem;
+}
+
+/* Utility class to hide elements */
+.hidden {
+    display: none;
+}
+
+#restart-button {
+    background-color: #28a745;
+}
+#restart-button:hover {
+    background-color: #218838;
+}

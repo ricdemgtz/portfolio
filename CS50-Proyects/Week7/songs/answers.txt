@@ -1,0 +1,7 @@
+-- Calculates the average danceability, energy, and valence for all songs.
+SELECT
+    AVG(danceability),
+    AVG(energy),
+    AVG(valence)
+FROM
+    songs;
